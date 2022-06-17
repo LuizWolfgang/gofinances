@@ -1,9 +1,11 @@
 # gofinances
 
-![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 27](https://user-images.githubusercontent.com/74063154/174392806-cabae574-72bb-4937-bb2f-74b2e4c24876.png)
-![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 14](https://user-images.githubusercontent.com/74063154/174392828-3118365f-6a7c-4c23-943e-5844f4e7e098.png)
-![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 18](https://user-images.githubusercontent.com/74063154/174392837-a4c20d6b-38ec-4b5e-a4ce-ae6499177891.png)
-![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 22](https://user-images.githubusercontent.com/74063154/174392847-ce66fb39-0843-4a1b-93c3-34ba593d988a.png)
+![Screen Shot 2022-06-17 at 17 05 20](https://user-images.githubusercontent.com/74063154/174394345-d9925e0c-cbfb-4f5c-8eb2-613d755ac87e.png)
+![Screen Shot 2022-06-17 at 17 05 38](https://user-images.githubusercontent.com/74063154/174394353-249d733c-352c-415a-81eb-c10fbd206544.png)
+![Screen Shot 2022-06-17 at 17 05 49](https://user-images.githubusercontent.com/74063154/174394362-799220c9-dbb8-42f7-94d2-99eea7972735.png)
+![Screen Shot 2022-06-17 at 17 06 02](https://user-images.githubusercontent.com/74063154/174394370-de26bfd6-cbc7-450f-aaad-e93e2f6362d3.png)
+
+
 
 <h3 align="center">gofinances</h3>
 --- 
