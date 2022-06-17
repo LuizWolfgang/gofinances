@@ -1,4 +1,6 @@
-# gofinances![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 27](https://user-images.githubusercontent.com/74063154/174392806-cabae574-72bb-4937-bb2f-74b2e4c24876.png)
+# gofinances
+
+![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 27](https://user-images.githubusercontent.com/74063154/174392806-cabae574-72bb-4937-bb2f-74b2e4c24876.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 14](https://user-images.githubusercontent.com/74063154/174392828-3118365f-6a7c-4c23-943e-5844f4e7e098.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 18](https://user-images.githubusercontent.com/74063154/174392837-a4c20d6b-38ec-4b5e-a4ce-ae6499177891.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 16 48 22](https://user-images.githubusercontent.com/74063154/174392847-ce66fb39-0843-4a1b-93c3-34ba593d988a.png)
@@ -13,8 +15,6 @@
 
 - [Sobre](#about)
 - [Ferramentas usadas](#built_using)
-- [Autores](#authors)
-- [Conquistas](#acknowledgement)
 
 ## 🧐 Sobre <a name = "about"></a>
 
