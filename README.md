@@ -68,6 +68,8 @@ sudo expo start
 - [Typescript](https://www.typescriptlang.org/) - Superset Javascript
 - [Expo](https://expo.io/) - Development
 
+
+## ⛏️ Conhecimentos adquiridos </a>
 - Conhecimento maior de AsyncStorage
 - Conhecimento maior do Expo e do seu ecossistema
 - Conhecimento maior de validação de formulários utilizando o Yup
